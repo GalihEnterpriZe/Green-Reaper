@@ -49,7 +49,7 @@ connect=50000
 ip = socket.gethostbyname( host )
 print ( "\033[1;91m Attacking \033[1;93m[" + host + "]" )
 print ( "\033[1;91m Attack to ip \033[1;93m["+ ip + "]" )
-message=("ATTACK OF CYBER & BADBUNNY CYBER TEAM & THE BLACK HORSE SYSTEM WAS HERE...")
+message=("Attack by Zeus Corporation...")
 print ("\033[1;91mFIRE..............................")
 def dos():
     #pid = os.fork()
